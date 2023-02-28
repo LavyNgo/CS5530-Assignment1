@@ -1,1 +1,2 @@
-# CS5530-Assignment1
+# CS5530 - Assignment 1
+Lavy Ngo - 16249130
